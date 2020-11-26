@@ -1,0 +1,2 @@
+class TaskValidationError(Exception):
+    pass
